@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: powderblue;
+    border: 5pt;
+    border-style: double;
+    border-color:black;
+    border-radius: 12px;
+}
+body
+{
+     padding: 40px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+img
+{
+align-items: right;
+height: 100px;
+width: 100px;
+border: 3px;
+border-image-width: 40px;
+
+}
+ul
+{
+    border-left: 6px solid black;
+}
